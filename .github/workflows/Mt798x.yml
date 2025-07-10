@@ -28,7 +28,7 @@ on:
         default: '360-t7-108M'
         type: choice
         options:
-          - '360-t7-108M'
+          - 'BPI-R4'
           - 'clt-r30b1-112M'
           - 'cudy_tr3000-v1'
           - 'cmcc-rax3000m-emmc'
